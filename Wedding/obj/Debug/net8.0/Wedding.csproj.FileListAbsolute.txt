@@ -28,3 +28,17 @@ D:\Projects\Wedding\Wedding\obj\Debug\net8.0\refint\Wedding.dll
 D:\Projects\Wedding\Wedding\obj\Debug\net8.0\Wedding.pdb
 D:\Projects\Wedding\Wedding\obj\Debug\net8.0\Wedding.genruntimeconfig.cache
 D:\Projects\Wedding\Wedding\obj\Debug\net8.0\ref\Wedding.dll
+D:\Projects\Wedding\Wedding\obj\Debug\net8.0\Wedding.csproj.AssemblyReference.cache
+D:\Projects\Wedding\Wedding\obj\Debug\net8.0\Wedding.sourcelink.json
+D:\Projects\Wedding\Wedding\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\Wedding\Wedding\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\Wedding\Wedding\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\Wedding\Wedding\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\Wedding\Wedding\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\Wedding\Wedding\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\Wedding\Wedding\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Projects\Wedding\Wedding\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\Wedding\Wedding\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Projects\Wedding\Wedding\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Projects\Wedding\Wedding\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\Wedding\Wedding\obj\Debug\net8.0\Wedding.csproj.Up2Date
