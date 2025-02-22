@@ -21,22 +21,6 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\Projects\\Wedding\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
-    },
-    {
-      "Id": "D:\\Projects\\Wedding\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
-    },
-    {
-      "Id": "D:\\Projects\\Wedding\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
-    },
-    {
-      "Id": "D:\\Projects\\Wedding\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
-    },
-    {
       "Id": "D:\\Projects\\Wedding\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
@@ -51,6 +35,22 @@
     {
       "Id": "D:\\Projects\\Wedding\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Wedding\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid1.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid1.css"
+    },
+    {
+      "Id": "D:\\Projects\\Wedding\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid1.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid1.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Wedding\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid1.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid1.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\Wedding\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid1.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid1.min.css.map"
     },
     {
       "Id": "D:\\Projects\\Wedding\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
@@ -117,22 +117,6 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Projects\\Wedding\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
-    },
-    {
-      "Id": "D:\\Projects\\Wedding\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
-    },
-    {
-      "Id": "D:\\Projects\\Wedding\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
-    },
-    {
-      "Id": "D:\\Projects\\Wedding\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
-    },
-    {
       "Id": "D:\\Projects\\Wedding\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
@@ -147,6 +131,22 @@
     {
       "Id": "D:\\Projects\\Wedding\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Wedding\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap1.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap1.css"
+    },
+    {
+      "Id": "D:\\Projects\\Wedding\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap1.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap1.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Wedding\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap1.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap1.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\Wedding\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap1.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap1.min.css.map"
     },
     {
       "Id": "D:\\Projects\\Wedding\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
@@ -243,6 +243,14 @@
     {
       "Id": "D:\\Projects\\Wedding\\Wedding\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Projects\\Wedding\\Wedding\\wwwroot\\src\\1.png",
+      "PackagePath": "staticwebassets\\src\\1.png"
+    },
+    {
+      "Id": "D:\\Projects\\Wedding\\Wedding\\wwwroot\\src\\2.png",
+      "PackagePath": "staticwebassets\\src\\2.png"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Wedding.Microsoft.AspNetCore.StaticWebAssets.props",
