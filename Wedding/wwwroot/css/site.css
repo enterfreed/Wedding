@@ -8,6 +8,7 @@ html {
   }
 }
 
+
 .btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
   box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
 }
@@ -18,14 +19,15 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+  margin: 0 auto;
+  font-family: 'Shantell Sans', sans-serif;
 }
 
 .container {
   min-height: 100%;
   width: 100%;
   background-color: rgba(202, 217, 137);
-  margin: 0 auto;
+  margin: 0 auto ;
   padding: 0;
 }
 
@@ -34,7 +36,7 @@ ul {
   padding: 0;
 }
 
-.form_wrapper {
+.form_wrapper {   
   background-color: rgba(232, 235, 190, 0.3);
   margin: 0 auto;
   width: 60%;  
@@ -85,4 +87,52 @@ ul {
   cursor: not-allowed;
 }
 
+.photo_wrapper{
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.photo{
+  margin: 0;
+  padding: 300px 0;
+  width: 70%;
+  height: 200px;
+  background-image: url("../src/1.png");
+  background-size: cover;
+  background-position: left;
+  background-repeat: no-repeat;  
+}
+
+.love_text_wrapper{
+  font-family: 'Shantell Sans', sans-serif;
+  font-weight: 600; 
+  font-size: 100px;
+  color: #FBD8D8;
+  align-items: center; 
+  margin: 222px auto;
+  position: relative;  
+  left: -200px; 
+ 
+}
+
+.female_wrapper{  
+  margin-left: 100px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+}
+
+.female{
+  margin: 20px auto 0;
+}
+
+.heart{ 
+  width: 150px;
+  height: 150px;
+  background-image: url("../src/2.png");
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+}
 
