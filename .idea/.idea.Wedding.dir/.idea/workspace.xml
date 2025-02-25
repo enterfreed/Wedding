@@ -9,39 +9,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc0e9e5f-ad7c-406a-8f8d-9299a19befe8" name="Changes" comment="билд">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Wedding.dir/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Wedding.dir/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="dc0e9e5f-ad7c-406a-8f8d-9299a19befe8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Wedding.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Wedding.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wedding/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/Views/Home/Index.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wedding/Views/Home/Privacy.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/Views/Home/Privacy.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wedding/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/Views/Shared/_Layout.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wedding/Wedding.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/Wedding.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wedding/bin/Debug/net8.0/Wedding.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/bin/Debug/net8.0/Wedding.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wedding/bin/Debug/net8.0/Wedding.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/bin/Debug/net8.0/Wedding.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wedding/bin/Debug/net8.0/Wedding.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/bin/Debug/net8.0/Wedding.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wedding/bin/Debug/net8.0/Wedding.staticwebassets.runtime.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/bin/Debug/net8.0/Wedding.staticwebassets.runtime.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/Wedding.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/Wedding.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/Wedding.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/Wedding.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/Wedding.RazorAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/Wedding.RazorAssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/Wedding.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/Wedding.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/Wedding.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/Wedding.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/Wedding.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/Wedding.sourcelink.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/apphost.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/ref/Wedding.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/ref/Wedding.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/refint/Wedding.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/refint/Wedding.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/staticwebassets.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/staticwebassets.build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/staticwebassets.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/staticwebassets.development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/staticwebassets.pack.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/staticwebassets.pack.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/staticwebassets/msbuild.Wedding.Microsoft.AspNetCore.StaticWebAssets.props" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/staticwebassets/msbuild.Wedding.Microsoft.AspNetCore.StaticWebAssets.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wedding/wwwroot/css/site.css" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/wwwroot/css/site.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wedding/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/wwwroot/lib/bootstrap/dist/css/bootstrap-grid1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wedding/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/wwwroot/lib/bootstrap/dist/css/bootstrap-grid1.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wedding/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/wwwroot/lib/bootstrap/dist/css/bootstrap-grid1.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wedding/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/wwwroot/lib/bootstrap/dist/css/bootstrap-grid1.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wedding/wwwroot/lib/bootstrap/dist/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/wwwroot/lib/bootstrap/dist/css/bootstrap1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wedding/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/wwwroot/lib/bootstrap/dist/css/bootstrap1.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wedding/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/wwwroot/lib/bootstrap/dist/css/bootstrap1.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wedding/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/wwwroot/lib/bootstrap/dist/css/bootstrap1.min.css.map" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,22 +37,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "enterfreed"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;enterfreed&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/enterfreed/Wedding.git",
-    "accountId": "cd37c3e8-e708-49d3-950d-24caecd2e748"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/enterfreed/Wedding.git&quot;,
+    &quot;accountId&quot;: &quot;cd37c3e8-e708-49d3-950d-24caecd2e748&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/907a872cc819489f8b622f69b4ddec703b918/56/12017eee/RazorPage.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/17367ddeb3b959bda6d8fbc6369cd65a8e6ee9d124ec6f9b884b1182ce76a8/RazorPage.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://D:/Projects/Wedding/Wedding/obj/Debug/net8.0/Wedding.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://D:/Projects/Wedding/Wedding/obj/Debug/net8.0/Wedding.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Wedding/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Wedding/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map" root0="FORCE_HIGHLIGHTING" />
@@ -87,9 +69,9 @@
     <setting file="file://$PROJECT_DIR$/Wedding/wwwroot/lib/jquery/dist/jquery.min.map" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2tPAHHR6qGRturYr9XSW4LmbJ1W" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
@@ -99,7 +81,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     ".NET Launch Settings Profile.Wedding: IIS Express.executor": "Run",
-    ".NET Launch Settings Profile.Wedding: http.executor": "Run",
+    ".NET Launch Settings Profile.Wedding: http.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
@@ -165,7 +147,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1740243247002</updated>
-      <workItem from="1740243248147" duration="8728000" />
+      <workItem from="1740243248147" duration="10207000" />
+      <workItem from="1740502244331" duration="6033000" />
     </task>
     <task id="LOCAL-00001" summary="билд">
       <option name="closed" value="true" />
@@ -175,7 +158,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740243467580</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="доработка">
+      <option name="closed" value="true" />
+      <created>1740252953220</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740252953220</updated>
+    </task>
+    <task id="LOCAL-00003" summary="стили">
+      <option name="closed" value="true" />
+      <created>1740252965197</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740252965197</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +196,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="билд" />
-    <option name="LAST_COMMIT_MESSAGE" value="билд" />
+    <MESSAGE value="доработка" />
+    <MESSAGE value="стили" />
+    <option name="LAST_COMMIT_MESSAGE" value="стили" />
   </component>
 </project>

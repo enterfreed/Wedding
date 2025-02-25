@@ -20,7 +20,7 @@ html {
 
 body {
   margin: 0 auto;
-  font-family: 'Shantell Sans', sans-serif;
+  font-family: "Ysabeau Infant", serif;
 }
 
 .container {
@@ -39,18 +39,44 @@ ul {
 .form_wrapper {   
   background-color: rgba(232, 235, 190, 0.3);
   margin: 0 auto;
-  width: 60%;  
+  width: 20%;
+  min-height: 100%;
   border-radius: 10px;
   color: black;
   box-shadow: 0 4px 6px rgb(65 132 144 / 10%), 0 1px 3px rgb(0 0 0 / 8%);
-  
+  padding: 20px; /* Добавлено полей */  
+}
+
+.btn_wrapper{
+  margin: 10px auto;
+  display: flex;
+  justify-content: center;
+}
+
+input[type="text"] {
+  width: 80%;
+  padding: 15px;
+  background: #fff;
+  border: 2px solid #dedede;
+  border-radius: 10px;
+  transition: border-color 0.3s;
+}
+
+input[type="text"]:focus {
+  border-color: #5b9bd5;
+  outline: none;
+}
+
+input[type="text"]::placeholder {
+  color: #aaa;
+  opacity: 1;
 }
 
 .btn {
   display: inline-block;
   box-sizing: border-box;
   padding: 0 25px;
-  margin: 0 15px 15px 0;
+  margin: 0 auto;
   outline: none;
   border: 1px solid #fff;
   border-radius: 50px;
@@ -91,12 +117,14 @@ ul {
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
+  
 }
+
 
 .photo{
   margin: 0;
   padding: 300px 0;
-  width: 70%;
+  width: 100%;
   height: 200px;
   background-image: url("../src/1.png");
   background-size: cover;
@@ -112,8 +140,6 @@ ul {
   align-items: center; 
   margin: 222px auto;
   position: relative;  
-  left: -200px; 
- 
 }
 
 .female_wrapper{  
@@ -136,3 +162,49 @@ ul {
   background-repeat: no-repeat;
 }
 
+@media (max-width: 768px) {
+  .photo_wrapper {    
+    flex-direction: column; /* Изменяем направление на колонку для мобильных устройств */
+    align-items: center; /* Центрируем элементы */ 
+  }
+
+  .photo {    
+    padding: 220px 0px; /* Уменьшаем отступы для мобильных */   
+    height: auto; /* Автоматическая высота для улучшения адаптивности */   
+    background-position: center; /* Центрируем изображение */
+    width: 100%; /* Увеличиваем ширину до 100% */
+    
+  }  
+
+  .love_text_wrapper { 
+    
+    position: absolute;  /* Измените на absolute */
+    top: 20px;           /* Расположите элемент вертикально */
+    right: 20px;         /* Расположите элемент горизонтально */   
+    margin: 0 auto;
+    font-size: 40px;
+  }
+
+
+  .female_wrapper {
+    margin-left: 0; /* Убираем отступ для мобильных */
+    height: auto; /* Автоматическая высота для лучшего отображения */   
+  }
+
+  .female {
+    margin: 10px auto 0; /* Уменьшаем отступы для мобильных */
+  }
+
+  .heart {
+    width: 80px; /* Уменьшаем размер сердца для мобильных */
+    height: 80px; /* Уменьшаем размер сердца для мобильных */   
+    background-position: center; /* Центрируем изображение */    
+  }
+
+  .form_wrapper { 
+    width: 80%;
+    margin: 0 auto;
+  } 
+  
+  
+}
