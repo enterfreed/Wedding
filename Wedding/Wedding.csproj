@@ -14,4 +14,8 @@
       <Folder Include="wwwroot\src\" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Content Remove="wwwroot\src\opscenter-6.8.42.tar.gz" />
+    </ItemGroup>
+
 </Project>

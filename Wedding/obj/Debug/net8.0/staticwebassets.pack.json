@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\Wedding.bundle.scp.css"
     },
     {
+      "Id": "D:\\Projects\\Wedding\\Wedding\\wwwroot\\css\\info.css",
+      "PackagePath": "staticwebassets\\css\\info.css"
+    },
+    {
       "Id": "D:\\Projects\\Wedding\\Wedding\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -251,6 +255,22 @@
     {
       "Id": "D:\\Projects\\Wedding\\Wedding\\wwwroot\\src\\2.png",
       "PackagePath": "staticwebassets\\src\\2.png"
+    },
+    {
+      "Id": "D:\\Projects\\Wedding\\Wedding\\wwwroot\\src\\3.png",
+      "PackagePath": "staticwebassets\\src\\3.png"
+    },
+    {
+      "Id": "D:\\Projects\\Wedding\\Wedding\\wwwroot\\src\\autocomplete-example.cs",
+      "PackagePath": "staticwebassets\\src\\autocomplete-example.cs"
+    },
+    {
+      "Id": "D:\\Projects\\Wedding\\Wedding\\wwwroot\\src\\free-icon-heart-8532001.png",
+      "PackagePath": "staticwebassets\\src\\free-icon-heart-8532001.png"
+    },
+    {
+      "Id": "D:\\Projects\\Wedding\\Wedding\\wwwroot\\src\\opscenter-6.8.42.tar.gz",
+      "PackagePath": "staticwebassets\\src\\opscenter-6.8.42.tar.gz"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Wedding.Microsoft.AspNetCore.StaticWebAssets.props",

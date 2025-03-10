@@ -1,0 +1,62 @@
+﻿.info_wrapper{
+    margin: 0 20px;
+    display: flex;
+    justify-content: center;    
+    font-family: "Ysabeau Infant", serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #0f1f12;    
+}
+
+.info_title{
+    position: relative;
+    font-size: 36px;
+    text-align: center;
+    font-family: 'Shantell Sans', sans-serif;
+    color: #0f1f12; 
+    z-index: 1;
+}
+
+.info_descr{
+    position: relative;
+    z-index: 1;
+}
+
+.info_date{
+    position: relative;
+    font-size: 26px;
+    text-align: center;
+    font-family: 'Shantell Sans', sans-serif;
+    z-index: 2;
+}
+
+.info_where{
+    position: relative;
+    z-index: 2;
+}
+
+.info_address{   
+    position: relative;
+    z-index: 1;
+}
+
+.info_time_question{
+    font-family: 'Shantell Sans', sans-serif;
+    font-size: 36px;
+    text-align: center;
+    color: #0f1f12;
+    position: relative;
+    z-index: 1;
+}
+
+.info_time{
+    margin: 5px  auto;
+    font-size: 36px;
+    color: #FBD8D8;
+    font-family: 'Shantell Sans', sans-serif;
+}
+
+.info_time_descr{
+    font-family: 'Shantell Sans', sans-serif;
+    color: #FBD8D8;
+}

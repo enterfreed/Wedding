@@ -9,23 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc0e9e5f-ad7c-406a-8f8d-9299a19befe8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Wedding.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Wedding.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wedding/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/Views/Home/Index.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wedding/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/Views/Shared/_Layout.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wedding/bin/Debug/net8.0/Wedding.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/bin/Debug/net8.0/Wedding.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wedding/bin/Debug/net8.0/Wedding.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/bin/Debug/net8.0/Wedding.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wedding/bin/Debug/net8.0/Wedding.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/bin/Debug/net8.0/Wedding.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/Wedding.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/Wedding.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/Wedding.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/Wedding.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/Wedding.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/Wedding.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/Wedding.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/Wedding.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/Wedding.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/Wedding.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/ref/Wedding.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/ref/Wedding.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/refint/Wedding.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/obj/Debug/net8.0/refint/Wedding.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wedding/wwwroot/css/site.css" beforeDir="false" afterPath="$PROJECT_DIR$/Wedding/wwwroot/css/site.css" afterDir="false" />
-    </list>
+    <list default="true" id="dc0e9e5f-ad7c-406a-8f8d-9299a19befe8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -148,7 +132,7 @@
       <option name="presentableId" value="Default" />
       <updated>1740243247002</updated>
       <workItem from="1740243248147" duration="10207000" />
-      <workItem from="1740502244331" duration="6033000" />
+      <workItem from="1740502244331" duration="6094000" />
     </task>
     <task id="LOCAL-00001" summary="билд">
       <option name="closed" value="true" />
@@ -174,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740252965197</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Доработка визуала">
+      <option name="closed" value="true" />
+      <created>1740508337823</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1740508337823</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +190,7 @@
     <MESSAGE value="билд" />
     <MESSAGE value="доработка" />
     <MESSAGE value="стили" />
-    <option name="LAST_COMMIT_MESSAGE" value="стили" />
+    <MESSAGE value="Доработка визуала" />
+    <option name="LAST_COMMIT_MESSAGE" value="Доработка визуала" />
   </component>
 </project>
