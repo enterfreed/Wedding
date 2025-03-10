@@ -26,8 +26,8 @@ body {
 .container {
   min-height: 100%;
   width: 100%;
-  background-color: rgba(202, 217, 137);
-  margin: 0 auto ;
+  background-color: rgba(167, 194, 95);
+  margin: 0 auto;
   padding: 0;
 }
 
@@ -38,13 +38,20 @@ ul {
 
 .form_wrapper {   
   background-color: rgba(232, 235, 190, 0.3);
-  margin: 0 auto;
+  margin: 20px auto;
   width: 20%;
   min-height: 100%;
   border-radius: 10px;
   color: black;
   box-shadow: 0 4px 6px rgb(65 132 144 / 10%), 0 1px 3px rgb(0 0 0 / 8%);
   padding: 20px; /* Добавлено полей */  
+}
+
+.form_title{
+  font-family: 'Shantell Sans', sans-serif;
+  font-size: 36px;
+  text-align: center;
+  color: #FBD8D8;
 }
 
 .btn_wrapper{
@@ -116,10 +123,8 @@ input[type="text"]::placeholder {
 .photo_wrapper{
   margin: 0 auto;
   display: flex;
-  justify-content: space-between;
-  
+  justify-content: space-between;  
 }
-
 
 .photo{
   margin: 0;
@@ -162,6 +167,20 @@ input[type="text"]::placeholder {
   background-repeat: no-repeat;
 }
 
+.heart_fon{
+  margin: 20px auto 20px;
+  width: 150%;
+  height: 600px;
+  background-image: url("../src/3.png");
+  background-size: cover;
+  background-position: left;
+  background-repeat: no-repeat;
+  transform: rotate(30deg);
+  position: absolute;  
+  top: 300px;          
+  left: -125px;  
+}
+
 @media (max-width: 768px) {
   .photo_wrapper {    
     flex-direction: column; /* Изменяем направление на колонку для мобильных устройств */
@@ -184,8 +203,7 @@ input[type="text"]::placeholder {
     margin: 0 auto;
     font-size: 40px;
   }
-
-
+  
   .female_wrapper {
     margin-left: 0; /* Убираем отступ для мобильных */
     height: auto; /* Автоматическая высота для лучшего отображения */   
@@ -203,8 +221,7 @@ input[type="text"]::placeholder {
 
   .form_wrapper { 
     width: 80%;
-    margin: 0 auto;
-  } 
-  
+    margin: 20px auto;
+  }  
   
 }
