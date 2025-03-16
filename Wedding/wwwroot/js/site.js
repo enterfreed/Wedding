@@ -1,17 +1,19 @@
-﻿// Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
-
+﻿
 document.querySelector('.btn').addEventListener('click', function(event) {
-    event.preventDefault(); // Отменяем стандартное поведение формы
+    event.preventDefault();
 
-    // Собираем данные формы
-    const form = event.target.closest('form');
-    const formData = new FormData(form);
-
-    // Отправка данных на сервер
-    fetch('https://localhost:7137/Wedding/index', {
+    const formData = {
+        name: document.getElementById('name').value,       
+        status: document.querySelector('input[name="status"]:checked').value,
+        alcohol: Array.from(document.querySelectorAll('input[type="checkbox"]:checked')).map(checkbox => checkbox.labels[0].innerText),        
+    };
+    
+    fetch('https://localhost:7137/api/Wedding/GetFormData', {
         method: 'POST',
-        body: formData
+        headers: {
+            'Content-Type': 'application/json;charset=utf-8'
+        },
+        body: JSON.stringify(formData)
     })
         .then(response => {
             if (response.ok) {
@@ -20,11 +22,11 @@ document.querySelector('.btn').addEventListener('click', function(event) {
             throw new Error('Network response was not ok');
         })
         .then(data => {
-            console.log('Успех:', data); // Обработка успешного ответа
-            alert('Форма успешно отправлена! 🎉');
+            console.log('Успех:', data);
+            alert('Форма успешно отправлена!');
         })
         .catch((error) => {
-            console.error('Ошибка:', error); // Обработка ошибок
-            alert('Произошла ошибка при отправке формы. 😢');
+            console.error('Ошибка:', error); 
+            alert('Произошла ошибка при отправке формы.');
         });
 });

@@ -5,5 +5,5 @@ namespace Wedding.Common;
 
 public class WeddingContext(DbContextOptions options) : DbContext(options)
 {
-    public DbSet<People> People { get; set; }
+    public DbSet<FormData> People { get; set; }
 }
